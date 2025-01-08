@@ -2,7 +2,7 @@
 
 ## Overview
 
-**EyeGuard** is an innovative Arduino-based project designed to enhance safety and awareness by detecting when a user’s eyes are closed for an extended period. Utilizing an IR sensor, a motor controlled by a relay, and a buzzer, EyeGuard provides an automated response to ensure that users remain alert and safe in various situations, such as while driving or operating machinery.
+**Arduino_SleepSafe** is an innovative Arduino-based project designed to enhance safety and awareness by detecting when a user’s eyes are closed for an extended period. Utilizing an IR sensor, a motor controlled by a relay, and a buzzer, EyeGuard provides an automated response to ensure that users remain alert and safe in various situations, such as while driving or operating machinery.
 
 ## Features
 
